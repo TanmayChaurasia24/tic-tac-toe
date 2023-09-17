@@ -22,3 +22,8 @@ This is a simple command-line-based implementation of the classic Tic-Tac-Toe ga
 3. Run the script using `python tic_tac_toe.py`.
 
 Enjoy playing this classic game of Tic-Tac-Toe with a friend or challenge yourself to create a more advanced version with additional features!
+
+
+## subheading
+
+hii my name is tanmay kumar chaurasia
